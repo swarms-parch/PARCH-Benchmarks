@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tar.gz
+*.zip
+
+# Compiled benchmark binaries
+sphincsplus/ref/test/wots_parch
